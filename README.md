@@ -1,4 +1,5 @@
 # On-time-Graduation---Saudi
 
-1. Compare the Predictive power of Admission data vs Academic data
+Research into whether students in a Saudi University will graduate on time or not.
+Compare the Predictive power of Admission data vs Academic data.
 
